@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Miguel Gonzalez Bolaños - Senior Devops & Cloud Architect'
+landing-title: 'Miguel Gonzalez - Senior Devops & Cloud Architect'
 description: null
 image: null
 author: null

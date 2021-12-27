@@ -18,11 +18,11 @@ style: style3
 <div>
     <span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
     <h3 class="company">UEFA</h3>
-    <i>Current</i>
+    <i>Current position</i>
 </div>
 <div class="box-company">
     <h4>Senior Devops & Cloud Architect</h4>
-    <h5>Mar 2019 - Current</h5>
+    <h5>Since Mar 2019</h5>
     <ul>
 		<li>toDo</li>
 	</ul>

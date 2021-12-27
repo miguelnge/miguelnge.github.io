@@ -1,16 +1,56 @@
 /* Skillset */
 
 .skillset {
-    .item {
+    .skillset-item {
         margin-bottom: 15px;
         overflow: hidden;
     }
-    .level-bar {
+    .skillset-level-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+    .skillset-level-bar {
         height: 12px;
         background: _palette(fg);
     }
-    .level-bar-inner {
+    .skillset-level-bar-inner {
         height: 12px;
         background: _palette(accent1);
     }
+}
+
+.collapsible {
+    background-color: _palette(fg);
+    color: _palette(fg);
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+  }
+  
+.active, .collapsible:hover {
+    background-color: _palette(bg-alt);
+}
+  
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+  
+.active:after {
+    content: "\2212";
+}
+  
+.collapsible-content {
+    padding: 0 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: _palette(bg);
 }

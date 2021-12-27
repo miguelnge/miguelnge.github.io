@@ -18,6 +18,7 @@ style: style3
 <div>
     <span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
     <h3 class="company">UEFA</h3>
+    <i>Current</i>
 </div>
 <div class="box-company">
     <h4>Senior Devops & Cloud Architect</h4>
@@ -31,8 +32,8 @@ style: style3
 <div>
     <span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
     <h3 class="company">Interoute</h3>
+    <i>5 years and 3 months</i>
 </div>
-<i>5 years and 3 months</i>
 <div class="box-company">
     <h4>Technical Manager</h4>
     <h5>May 2016 - Mar 2019<i> · 2 years and 10 months</i></h5>
@@ -50,8 +51,8 @@ style: style3
 <div>
     <span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
     <h3 class="company">Wellness Telecom</h3>
+    <i>2 years and 7 months</i>
 </div>
-<i>2 years and 7 months</i>
 <div class="box-company">
     <h4>Cloud Product & Technical Manager</h4>
     <h5>Sep 2012 - Dec 2013<i> · 1 year and 2 month</i></h5>
@@ -69,8 +70,8 @@ style: style3
 <div>
     <span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
     <h3 class="company">El Sendero</h3>
+    <i>1 year and 3 months</i>
 </div>
-<i>1 year and 3 months</i>
 <div class="box-company">
     <h4>Systems Engineer</h4>
     <h5>Jun 2010 - Feb 2011<i> · 9 months</i></h5>

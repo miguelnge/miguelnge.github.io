@@ -14,78 +14,63 @@ style: style3
 <section id="one">
 	<div class="inner">
 
-<!-- Senior DevOps & Cloud Architect @UEFA -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
-    <h3>Senior Devops & Cloud Architect</h3>
-    <h4>UEFA (Remote)</h4>
+<!-- @UEFA -->
+<span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
+<h3 class="company">UEFA</h3>
+<div class="box-company">
+    <h4>Senior Devops & Cloud Architect</h3>
     <h5>Mar 2019 - Current</h5>
     <ul>
 		<li>toDo</li>
 	</ul>
 </div>
 
-<!-- Technical Manager @Interoute -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
-    <h3>Technical Manager</h3>
-    <h4>Interoute (Geneva, Switzerland)</h4>
-    <h5>May 2016 - Mar 2019</h5>
+<!-- @Interoute -->
+<span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
+<h3 class="company">Interoute</h3>
+<i>5 years and 3 months</i>
+<div class="box-company">
+    <h4>Technical Manager</h3>
+    <h5>May 2016 - Mar 2019<i> · 2 years and 10 months</i></h5>
+    <ul>
+		<li>toDo</li>
+	</ul>
+    <h4>Datacenter Engineer</h3>
+    <h5>Dec 2013 - May 2016<i> · 2 years and 5 months</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
 </div>
 
-<!-- Datacenter Engineer @Interoute -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
-    <h3>Datacenter Engineer</h3>
-    <h4>Interoute (Geneva, Switzerland)</h4>
-    <h5>Dec 2013 - May 2016</h5>
+<!-- @Wellness Telecom -->
+<span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
+<h3 class="company">Wellness Telecom</h3>
+<i>2 years and 7 months</i>
+<div class="box-company">
+    <h4>Cloud Product & Technical Manager</h3>
+    <h5>Sep 2012 - Dec 2013<i> · 1 year and 2 month</i></h5>
+    <ul>
+		<li>toDo</li>
+	</ul>
+    <h4>Systems Engineer</h3>
+    <h5>Apr 2011 - Sep 2012<i> · 1 year and 5 month</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
 </div>
 
-<!-- Cloud Product & Technical Manager @Wellness Telecom -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
-    <h3>Cloud Product & Technical Manager</h3>
-    <h4>Wellness Telecom (Seville, Spain)</h4>
-    <h5>Sep 2012 - Dec 2013</h5>
+<!-- @El Sendero -->
+<span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
+<h3 class="company">El Sendero</h3>
+<i>1 year and 3 months</i>
+<div class="box-company">
+    <h4>Systems Engineer</h3>
+    <h5>Jun 2010 - Feb 2011<i> · 9 months</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
-</div>
-
-<!-- Systems Engineer @Wellness Telecom -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
-    <h3>Systems Engineer</h3>
-    <h4>Wellness Telecom (Seville, Spain)</h4>
-    <h5>Apr 2011 - Sep 2012</h5>
-    <ul>
-		<li>toDo</li>
-	</ul>
-</div>
-
-<!-- Systems Engineer @El Sendero -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
-    <h3>Systems Engineer</h3>
-    <h4>El Sendero (Seville, Spain)</h4>
-    <h5>Jun 2010 - Feb 2011</h5>
-    <ul>
-		<li>toDo</li>
-	</ul>
-</div>
-
-<!-- Junior Systems Engineer @El Sendero -->
-<div class="box">
-    <span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
-    <h3>Junior Systems Engineer</h3>
-    <h4>El Sendero (Seville, Spain)</h4>
-    <h5>Dec 2009 - Jun 2010</h5>
+    <h4>Junior Systems Engineer</h3>
+    <h5>Dec 2009 - Jun 2010<i> · 6 months</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>

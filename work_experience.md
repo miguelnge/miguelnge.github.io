@@ -16,7 +16,7 @@ style: style3
 
 <!-- @UEFA -->
 <div>
-    <span class="image left rounded"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
+    <span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" class="rounded"/></span>
     <h3 class="company">UEFA</h3>
     <i>Current position</i>
 </div>
@@ -30,7 +30,7 @@ style: style3
 
 <!-- @Interoute -->
 <div>
-    <span class="image left rounded"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
+    <span class="image left rounded"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" class="rounded"/></span>
     <h3 class="company">Interoute</h3>
     <i>5 years and 3 months</i>
 </div>
@@ -49,7 +49,7 @@ style: style3
 
 <!-- @Wellness Telecom -->
 <div>
-    <span class="image left rounded"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
+    <span class="image left rounded"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" class="rounded"/></span>
     <h3 class="company">Wellness Telecom</h3>
     <i>2 years and 7 months</i>
 </div>
@@ -68,7 +68,7 @@ style: style3
 
 <!-- @El Sendero -->
 <div>
-    <span class="image left rounded"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
+    <span class="image left rounded"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" class="rounded"/></span>
     <h3 class="company">El Sendero</h3>
     <i>1 year and 3 months</i>
 </div>

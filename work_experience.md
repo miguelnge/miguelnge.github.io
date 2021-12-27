@@ -15,10 +15,12 @@ style: style3
 	<div class="inner">
 
 <!-- @UEFA -->
-<span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
-<h3 class="company">UEFA</h3>
+<div>
+    <span class="image left"><img src="{% link assets/images/work_experience_uefa.jpg %}" alt="" /></span>
+    <h3 class="company">UEFA</h3>
+</div>
 <div class="box-company">
-    <h4>Senior Devops & Cloud Architect</h3>
+    <h4>Senior Devops & Cloud Architect</h4>
     <h5>Mar 2019 - Current</h5>
     <ul>
 		<li>toDo</li>
@@ -26,16 +28,18 @@ style: style3
 </div>
 
 <!-- @Interoute -->
-<span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
-<h3 class="company">Interoute</h3>
+<div>
+    <span class="image left"><img src="{% link assets/images/work_experience_interoute.jpg %}" alt="" /></span>
+    <h3 class="company">Interoute</h3>
+</div>
 <i>5 years and 3 months</i>
 <div class="box-company">
-    <h4>Technical Manager</h3>
+    <h4>Technical Manager</h4>
     <h5>May 2016 - Mar 2019<i> · 2 years and 10 months</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
-    <h4>Datacenter Engineer</h3>
+    <h4>Datacenter Engineer</h4>
     <h5>Dec 2013 - May 2016<i> · 2 years and 5 months</i></h5>
     <ul>
 		<li>toDo</li>
@@ -43,16 +47,18 @@ style: style3
 </div>
 
 <!-- @Wellness Telecom -->
-<span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
-<h3 class="company">Wellness Telecom</h3>
+<div>
+    <span class="image left"><img src="{% link assets/images/work_experience_wellnesstelecom.jpg %}" alt="" /></span>
+    <h3 class="company">Wellness Telecom</h3>
+</div>
 <i>2 years and 7 months</i>
 <div class="box-company">
-    <h4>Cloud Product & Technical Manager</h3>
+    <h4>Cloud Product & Technical Manager</h4>
     <h5>Sep 2012 - Dec 2013<i> · 1 year and 2 month</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
-    <h4>Systems Engineer</h3>
+    <h4>Systems Engineer</h4>
     <h5>Apr 2011 - Sep 2012<i> · 1 year and 5 month</i></h5>
     <ul>
 		<li>toDo</li>
@@ -60,16 +66,18 @@ style: style3
 </div>
 
 <!-- @El Sendero -->
-<span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
-<h3 class="company">El Sendero</h3>
+<div>
+    <span class="image left"><img src="{% link assets/images/work_experience_elsendero.jpg %}" alt="" /></span>
+    <h3 class="company">El Sendero</h3>
+</div>
 <i>1 year and 3 months</i>
 <div class="box-company">
-    <h4>Systems Engineer</h3>
+    <h4>Systems Engineer</h4>
     <h5>Jun 2010 - Feb 2011<i> · 9 months</i></h5>
     <ul>
 		<li>toDo</li>
 	</ul>
-    <h4>Junior Systems Engineer</h3>
+    <h4>Junior Systems Engineer</h4>
     <h5>Dec 2009 - Jun 2010<i> · 6 months</i></h5>
     <ul>
 		<li>toDo</li>

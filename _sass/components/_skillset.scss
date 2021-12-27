@@ -1,0 +1,16 @@
+/* Skillset */
+
+.skillset {
+    .item {
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    .level-bar {
+        height: 12px;
+        background: _palette(fg);
+    }
+    .level-bar-inner {
+        height: 12px;
+        background: _palette(accent1);
+    }
+}

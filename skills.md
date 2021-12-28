@@ -17,20 +17,17 @@ style: style2
 <!-- Technical skills -->
 <div>
     <h2>Technical skills</h2>
-	<!-- Area 1 -->
-	<div class="collap-container">
-    	<div class="collap-header"><span>Expand</span></div>
-    	<div class="collap-content">
-	        <ul>
-            	<li>This is just some random content.</li>
-        	</ul>
-    	</div>
-    	<div class="collap-header"><span>Expand</span></div>
-    	<div class="collap-content">
-	        <ul>
-            	<li>This is just some random content.</li>
-        	</ul>
-    	</div> 
+	<div id="accordion">
+		<!-- Area 1 -->
+  		<h3>Area 1</h3>
+  		<div>
+		  	<p>Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.</p>
+		</div>
+		<!-- Area 2 -->
+  		<h3>Area 2</h3>
+  		<div>
+		  	<p>Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In suscipit faucibus urna.</p>
+		</div>
 	</div>
 </div>
 

@@ -20,37 +20,23 @@
     }
 }
 
-.collapsible {
-    background-color: _palette(fg);
-    color: _palette(fg);
+.collap-container {
+    width:100%;
+    border:1px solid #d3d3d3;
+}
+
+.collap-container div {
+    width:100%;
+}
+
+.collap-container .collap-header {
+    background-color:#d3d3d3;
+    padding: 2px;
     cursor: pointer;
-    padding: 15px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-  }
-  
-.active, .collapsible:hover {
-    background-color: _palette(bg-alt);
-}
-  
-.collapsible:after {
-    content: '\002B';
-    color: white;
     font-weight: bold;
-    float: right;
-    margin-left: 5px;
 }
-  
-.active:after {
-    content: "\2212";
-}
-  
-.collapsible-content {
-    padding: 0 15px;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    background-color: _palette(bg);
+
+.collap-container .collap-content {
+    display: none;
+    padding : 5px;
 }

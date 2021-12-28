@@ -18,22 +18,19 @@ style: style2
 <div>
     <h2>Technical skills</h2>
 	<!-- Area 1 -->
-	<button class="collapsible">Area1</button>
-	<div class="collapsible-content">
-  		<div class="skillset">
-			<div class="skillset-item">
-				<h5 class="skillset-level-title">Solution1</h5>
-				<div class="skillset-level-bar">
-					<div class="skillset-level-bar-inner" data-level="98%" style="width: 98%;"></div>
-				</div>
-			</div>
-			<div class="skillset-item">
-				<h5 class="skillset-level-title">Solution2</h5>
-				<div class="skillset-level-bar">
-					<div class="skillset-level-bar-inner" data-level="98%" style="width: 98%;"></div>
-				</div>
-			</div>
-		</div>
+	<div class="collap-container">
+    	<div class="collap-header"><span>Expand</span></div>
+    	<div class="collap-content">
+	        <ul>
+            	<li>This is just some random content.</li>
+        	</ul>
+    	</div>
+    	<div class="collap-header"><span>Expand</span></div>
+    	<div class="collap-content">
+	        <ul>
+            	<li>This is just some random content.</li>
+        	</ul>
+    	</div> 
 	</div>
 </div>
 
@@ -55,20 +52,3 @@ style: style2
 </section>
 
 </div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>

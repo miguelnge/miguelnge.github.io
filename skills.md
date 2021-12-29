@@ -58,7 +58,7 @@ style: style2
 <!-- Personal skills -->
 <div>
     <h2>Personal skills</h2>
-	<ul class="actions">
+	<ul class="actions centered">
 		<li class="button accent2">Lorem ipsum dolor</li>
 		<li class="button accent2">sit amet,</li>
 		<li class="button accent2">consectetur adipiscing elit.</li>

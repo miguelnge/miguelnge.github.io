@@ -162,6 +162,10 @@
 		&.major {
 			margin: (_size(element-margin) * 1.5) 0;
 		}
+
+		&.minor {
+			margin: (_size(element-margin) * 0.5) (_size(element-margin) * 3);
+		}
 	}
 
 	.align-left {

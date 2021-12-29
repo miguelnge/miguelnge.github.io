@@ -970,7 +970,7 @@ a.ui-button:focus {
 }
 
 .ui-visual-focus {
-	box-shadow: 0 0 3px 1px rgb(94, 158, 214);
+	box-shadow: 0 0 3px 1px _palette(accent2);
 }
 .ui-state-active,
 .ui-widget-content .ui-state-active,

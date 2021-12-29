@@ -979,7 +979,7 @@ a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
 	border: 1px solid _palette(border);
-	background: _palette(fg-light);
+	background: _palette(highlight);
 	font-weight: normal;
 	color: _palette(fg);
 }

@@ -24,7 +24,10 @@ style: style3
     <h4>Senior Devops & Cloud Architect</h4>
     <h5><i>Since Mar 2019</i></h5>
     <ul>
-		<li>toDo</li>
+		<li>Cloud and containerized business critical workloads design and operations.</li>
+        <li>Core platforms architectural definition and management.</li>
+        <li>Operational best practices and procedures generation.</li>
+        <li>Support UEFA during its hybrid cloud, agile and GitOps methodologies embracement.</li>
 	</ul>
 </div>
 
@@ -38,12 +41,16 @@ style: style3
     <h4>Technical Manager</h4>
     <h5><i>May 2016 - Mar 2019 · 2 years and 10 months</i></h5>
     <ul>
-		<li>toDo</li>
+        <li>Interoute’s VIP customer platform stability responsible.</li>
+        <li>Escalation point for major incidents.</li>
+        <li>New platforms’ designs collaborations.</li>
 	</ul>
     <h4>Datacenter Engineer</h4>
     <h5><i>Dec 2013 - May 2016 · 2 years and 5 months</i></h5>
     <ul>
-		<li>toDo</li>
+        <li>Customers’ hosting platforms management. </li>
+        <li>OpenSource and virtualization technologies escalation point.</li>
+        <li>New platforms’ designs collaborations.</li>
 	</ul>
 </div>
 
@@ -57,12 +64,18 @@ style: style3
     <h4>Cloud Product & Technical Manager</h4>
     <h5><i>Sep 2012 - Dec 2013 · 1 year and 2 month</i></h5>
     <ul>
-		<li>toDo</li>
+		<li>Cloud and systems technical reference.</li>
+		<li>Infraestructure responsible.</li>
+		<li>Cloud operations team coordinator.</li>
+		<li>On boarding consultancy to Wellness Telecom’s cloud.</li>
+		<li>New portfolio and products definition and implementation.</li>
 	</ul>
     <h4>Systems Engineer</h4>
     <h5><i>Apr 2011 - Sep 2012 · 1 year and 5 month</i></h5>
     <ul>
-		<li>toDo</li>
+		<li>Cloud service provider implementation and maintenace.</li>
+		<li>Systems project management and deployment.</li>
+		<li>Impart technical training to customers and internal departments.</li>
 	</ul>
 </div>
 
@@ -76,12 +89,15 @@ style: style3
     <h4>Systems Engineer</h4>
     <h5><i>Jun 2010 - Feb 2011 · 9 months</i></h5>
     <ul>
-		<li>toDo</li>
+		<li>Virtualization and consolidation projects engagement.</li>
+		<li>Capacity, availability and contingency plans.</li>
+		<li>OpenSource projects implementation.</li>
 	</ul>
     <h4>Junior Systems Engineer</h4>
     <h5><i>Dec 2009 - Jun 2010 · 6 months</i></h5>
     <ul>
-		<li>toDo</li>
+		<li>Customer and internal support. Mostly web, databases and email services.</li>
+		<li>Hardware and infraestructure management.</li>
 	</ul>
 </div>
 

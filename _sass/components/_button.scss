@@ -129,4 +129,20 @@
 			cursor: default;
 			opacity: 0.25;
 		}
+
+		&.accent2 {
+			background-color: _palette(bg);
+			box-shadow: none;
+			color: _palette(fg);
+			padding: 1.75em;
+
+			&:hover, &:active {
+				background-color: _palette(bg);
+				color: _palette(accent2) !important;
+			}
+
+			&:active {
+				background-color: desaturate(darken(_palette(accent2), 15), 5);
+			}
+		}
 	}

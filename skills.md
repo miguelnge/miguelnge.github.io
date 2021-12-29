@@ -55,9 +55,25 @@ style: style2
 
 <hr class="major">
 
-<!-- Professional skills -->
+<!-- Personal skills -->
 <div>
-    <h2>Professional skills</h2>
+    <h2>Personal skills</h2>
+	<ul class="actions">
+		<li class="button">Skill 1</li>
+		<li class="button">Skill 2</li>
+		<li class="button">Skill 3</li>
+	</ul>
+	<ul class="actions">
+		<li class="button">Skill 4</li>
+		<li class="button">Skill 5</li>
+		<li class="button">Skill 6</li>
+		<li class="button">Skill 7</li>
+	</ul>
+	<ul class="actions">
+		<li class="button">Skill 8</li>
+		<li class="button">Skill 9</li>
+		<li class="button">Skill 10</li>
+	</ul>
 </div>
 
 <hr class="major">

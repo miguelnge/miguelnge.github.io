@@ -77,6 +77,30 @@ style: style2
 <!-- Languages -->
 <div>
     <h2>Languages</h2>
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Language</th>
+					<th>Proficiency</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Spanish</td>
+					<td>toDo</td>
+				</tr>
+				<tr>
+					<td>English</td>
+					<td>toDo</td>
+				</tr>
+				<tr>
+					<td>French</td>
+					<td>toDo</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 
 </div>

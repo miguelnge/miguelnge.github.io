@@ -20,13 +20,35 @@ style: style2
 	<div id="accordion">
 		<!-- Area 1 -->
   		<h3>Area 1</h3>
-  		<div>
-		  	<p>Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.</p>
+  		<div class="skillset">
+			<div class="skillset-item">
+				<h5 class="skillset-level-title">Skill 1</h5>
+				<div class="skillset-level-bar">
+					<div class="skillset-level-bar-inner" data-level="98%" style="width: 98%;"></div>
+				</div>
+			</div>
+			<div class="skillset-item">
+				<h5 class="skillset-level-title">Skill 2</h5>
+				<div class="skillset-level-bar">
+					<div class="skillset-level-bar-inner" data-level="90%" style="width: 90%;"></div>
+				</div>
+			</div>
 		</div>
 		<!-- Area 2 -->
   		<h3>Area 2</h3>
-  		<div>
-		  	<p>Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In suscipit faucibus urna.</p>
+  		<div class="skillset">
+			<div class="skillset-item">
+				<h5 class="skillset-level-title">Skill 3</h5>
+				<div class="skillset-level-bar">
+					<div class="skillset-level-bar-inner" data-level="80%" style="width: 80%;"></div>
+				</div>
+			</div>
+			<div class="skillset-item">
+				<h5 class="skillset-level-title">Skill 4</h5>
+				<div class="skillset-level-bar">
+					<div class="skillset-level-bar-inner" data-level="60%" style="width: 60%;"></div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

@@ -161,10 +161,20 @@
 
 		&.major {
 			margin: (_size(element-margin) * 1.5) 0;
+
+			&.accent1 {
+				background-color: _palette(accent1);
+				height: 2px;
+			}
 		}
 
 		&.minor {
-			margin: (_size(element-margin) * 0.5) (_size(element-margin) * 3);
+			margin: (_size(element-margin) * 0.5) (_size(element-margin) * 4.5);
+
+			&.accent1 {
+				background-color: _palette(accent1);
+				height: 1px;
+			}
 		}
 	}
 
